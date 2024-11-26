@@ -279,7 +279,7 @@ body:not(.light-theme) .nav__logo-img {
 
 /* Light mode image */
 body.light-theme .nav__logo-img {
-  content: url("../assets/images/white.png");
+  content: url("https://github.com/HissahKhalid/portfolio/blob/1caea96a58896cde17e3e0bbc314a6f9cea302c1/assets/images/white.png");
 }
 
 body:not(.light-theme) .nav__logo-img {
@@ -288,7 +288,7 @@ body:not(.light-theme) .nav__logo-img {
 
 /* Light mode image */
 body.light-theme .nav__logo-img {
-  content: url("../assets/images/white.png");
+  content: url("https://github.com/HissahKhalid/portfolio/blob/1caea96a58896cde17e3e0bbc314a6f9cea302c1/assets/images/white.png");
 }
 
 .nav__logo:hover {
