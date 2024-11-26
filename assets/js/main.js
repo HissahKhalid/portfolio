@@ -125,7 +125,7 @@ const setThemeIcon = (theme) => {
     logoImg.src = "../assets/images/black.png";
     logoText.style.color = "black";
   } else {
-    logoImg.src = "../assets/images/white.png";
+    logoImg.src = "https://github.com/HissahKhalid/portfolio/blob/1caea96a58896cde17e3e0bbc314a6f9cea302c1/assets/images/white.png";
     logoText.style.color = "white";
   }
 };
