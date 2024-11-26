@@ -122,10 +122,10 @@ const setThemeIcon = (theme) => {
   const logoImg = document.getElementById('logo-img');
   const logoText = document.querySelector('.nav__logo-text');
   if (theme === "dark") {
-    logoImg.src = "assets/images/black.png";
+    logoImg.src = "../assets/images/black.png";
     logoText.style.color = "black";
   } else {
-    logoImg.src = "assets/images/white.png";
+    logoImg.src = "../assets/images/white.png";
     logoText.style.color = "white";
   }
 };
